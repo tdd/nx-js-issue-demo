@@ -1,0 +1,9 @@
+{
+  "name": "@nx-demo/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "exported-config.json": "./src/exported-config.json"
+  }
+}

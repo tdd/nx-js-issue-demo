@@ -1,0 +1,3 @@
+{
+  "extends": "@nx-demo/tsconfig/exported-config.json"
+}

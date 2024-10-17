@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "useInferencePlugins": false,
+  "defaultBase": "main",
+  "release": {
+    "projects": ["packages/bar", "packages/foo"],
+    "version": {
+      "conventionalCommits": true
+    }
+  }
+}
