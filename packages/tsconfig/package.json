@@ -4,6 +4,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "exported-config.json": "./src/exported-config.json"
+    "./exported-config.json": "./src/exported-config.json"
   }
 }

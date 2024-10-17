@@ -1,6 +1,10 @@
 # Reproducible use-case for `@nx/js` issue due to reliance on `ts-node` 10.9.1
 
+<<<<<<< HEAD
 See [this filed issue](https://github.com/nrwl/nx/issues/28492) for details.
+=======
+See [this filed issue](#FIXME) for details.
+>>>>>>> 2a6e660 (Add detailed README)
 
 Step to reproduce:
 
